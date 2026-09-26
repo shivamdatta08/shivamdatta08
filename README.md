@@ -1,475 +1,749 @@
-# Hi, I'm Shivam Datta 👋
+Create a premium, modern, dark-themed and visually polished GitHub Profile README.md for me.
 
-### Building, Learning & Exploring Computer Science 🚀
+The final result should look like a high-end student developer portfolio — NOT like a traditional CV or resume.
 
-**Second-year B.Tech Computer Science & Engineering Student @ GGSIPU**  
-Aspiring **Software Engineer & AI Engineer**, currently learning by building, experimenting, and turning concepts into practical projects.
+IMPORTANT:
+- Generate ONE complete README.md.
+- It must be directly copy-pasteable into my GitHub profile repository.
+- Use clean Markdown + HTML tables where useful.
+- Make it responsive/mobile-friendly.
+- Keep the design compact, elegant and professional.
+- Use a dark developer aesthetic with subtle blue/cyan/purple accents.
+- Avoid excessive emojis and huge badge collections.
+- Do NOT invent projects, internships, jobs, certifications, statistics or links.
+- Do NOT include private information.
+- I currently do NOT have projects that I want to showcase, so completely remove all Projects / Featured Projects sections.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivamdatta08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-datta-686194377/)
+━━━━━━━━━━━━━━━━━━━━
+👤 MY PROFILE
+━━━━━━━━━━━━━━━━━━━━
 
----
+Name:
+Shivam Datta
 
-## 🧑‍💻 About Me
+Role:
+Second-year B.Tech Computer Science & Engineering Student
 
-I'm a **second-year B.Tech CSE student at Guru Gobind Singh Indraprastha University (GGSIPU)**, exploring the intersection of programming, software development, data, and AI.
+University:
+Guru Gobind Singh Indraprastha University (GGSIPU)
 
-I'm currently building my foundation across:
+College:
+Delhi Technical Campus
 
-- 💻 Programming & software development
-- 🌐 Web technologies
-- 🗄️ Databases & DBMS
-- 📊 Data & analytics
-- 🤖 Artificial Intelligence
-- 🧩 Problem-solving & computer science fundamentals
+B.Tech:
+2025–2029
 
-I learn best by **building projects, experimenting with technologies, and turning concepts into practical things**.
+Current Status:
+Second-year B.Tech CSE student
 
-Beyond code, my experience in scouting, leadership and team activities has helped me develop **communication, coordination, discipline and teamwork** — skills I try to bring into every project I work on.
+Location:
+New Delhi, India
 
-> 🎓 Student today, builder in progress, always learning.
+GitHub:
+https://github.com/shivamdatta08
 
----
+GitHub username:
+shivamdatta08
 
-## ⚡ Quick Intro
+LinkedIn:
+https://www.linkedin.com/in/shivam-datta-686194377/
 
-<table>
-<tr>
-<td align="center" width="25%">
+Email:
+shivamdatta1008@gmail.com
 
-### 🎓
-**B.Tech CSE**
+Career Direction:
+Aspiring Software Engineer & AI Engineer
 
-GGSIPU
+Interests:
+- Computer Science
+- Programming
+- Software Development
+- Web Technologies
+- Databases
+- Data & Analytics
+- Artificial Intelligence
+- Emerging AI-based technologies
 
-</td>
-<td align="center" width="25%">
+Create a strong natural headline such as:
 
-### 💻
-**Learn by Building**
+"Building, Learning & Exploring Computer Science 🚀"
 
-Projects & Experiments
+You may improve the wording while keeping it authentic.
 
-</td>
-<td align="center" width="25%">
+Do NOT make me sound like an experienced professional.
+I am a student actively learning, experimenting and building.
 
-### 🐍
-**C & Python**
+━━━━━━━━━━━━━━━━━━━━
+🎨 VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━
 
-Programming
+The overall README should resemble a premium developer portfolio.
 
-</td>
-<td align="center" width="25%">
+Design direction:
 
-### 🌐
-**Web Development**
+- Dark background / dark GitHub aesthetic
+- Subtle cyan, blue and purple accents
+- Clean cards
+- Thin borders
+- Rounded visual sections where possible
+- Consistent typography
+- Good whitespace
+- Minimal but visually impressive
+- Modern developer-dashboard feel
+- Professional student portfolio
+- Mobile-friendly
+- Easy to maintain
+- Strong visual hierarchy
 
-Exploring
+Think:
 
-</td>
-</tr>
-<tr>
-<td align="center">
+"Modern developer dashboard + student portfolio"
 
-### 📊
-**Data & Analytics**
+NOT:
 
-Exploring
+"Resume converted into Markdown"
 
-</td>
-<td align="center">
+━━━━━━━━━━━━━━━━━━━━
+👋 HERO SECTION
+━━━━━━━━━━━━━━━━━━━━
 
-### 🤖
-**Artificial Intelligence**
+Create a visually attractive top section containing:
 
-Exploring
+SHIVAM DATTA
 
-</td>
-<td align="center">
+Second-year B.Tech CSE Student @ GGSIPU
 
-### 🧭
-**Leadership**
+"Building, Learning & Exploring Computer Science 🚀"
 
-Teamwork & Coordination
+Include:
 
-</td>
-<td align="center">
+📍 New Delhi, India
+🎓 B.Tech CSE · 2025–2029
+🏫 GGSIPU
+💻 Aspiring Software Engineer & AI Engineer
 
-### 🚀
-**Always Learning**
+Add clean GitHub, LinkedIn and Email buttons.
 
-Keep Building
+GitHub:
+https://github.com/shivamdatta08
 
-</td>
-</tr>
-</table>
+LinkedIn:
+https://www.linkedin.com/in/shivam-datta-686194377/
 
----
+Email:
+mailto:shivamdatta1008@gmail.com
 
-# 🛠️ Tech Stack
+Do NOT use a huge collection of badges.
 
-> A compact snapshot of the technologies and tools I'm currently learning and using.
+━━━━━━━━━━━━━━━━━━━━
+🧑‍💻 ABOUT ME
+━━━━━━━━━━━━━━━━━━━━
 
-### 💻 Programming
+Write a concise, authentic introduction.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python" height="45" alt="C and Python" />
-</p>
+Mention that I am a second-year B.Tech Computer Science & Engineering student at Guru Gobind Singh Indraprastha University (GGSIPU), currently exploring:
 
-### 🌐 Web & Databases
+- Programming
+- Software development
+- Web technologies
+- Databases
+- Data & analytics
+- Artificial Intelligence
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,mysql,mariadb" height="45" alt="HTML MySQL MariaDB" />
-</p>
+Mention that I learn best by building, experimenting with technologies and turning concepts into practical things.
 
-<p>
-  <img src="https://img.shields.io/badge/DBMS%20Concepts-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="DBMS Concepts" />
-</p>
+Mention that I am particularly interested in growing towards Software Engineering and AI Engineering.
 
-### 📊 Data & Analytics
+Also subtly mention that my experience in Bharat Scouts & Guides, leadership activities and team-based responsibilities has helped me develop:
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" height="28" alt="Microsoft Power BI" />
-</p>
+- Communication
+- Coordination
+- Discipline
+- Teamwork
+- Leadership
+- Problem-solving
 
-### 🔧 Development Tools
+Do NOT claim professional experience.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jupyter,pycharm,visualstudio,anaconda" height="45" alt="Jupyter PyCharm Visual Studio Anaconda" />
-</p>
+Add a small highlighted quote/card:
 
-### 🤖 AI Tools
+"Student today, builder in progress, always learning."
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="ChatGPT" />
-</p>
+━━━━━━━━━━━━━━━━━━━━
+⚡ QUICK INTRO
+━━━━━━━━━━━━━━━━━━━━
 
-### 🎨 Creative & Productivity
+Create a modern grid/card layout.
 
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="28" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white" height="28" alt="Microsoft 365" />
-</p>
+Use approximately 8 compact cards:
 
----
+🎓 B.Tech CSE @ GGSIPU
+💻 Learning through projects
+🐍 C & Python
+🌐 Web Development
+📊 Data & Analytics
+🤖 Artificial Intelligence
+🧭 Leadership & Teamwork
+🚀 Always Learning
 
-# 🎯 Currently Learning
+Use HTML tables/cards instead of a boring Markdown list.
 
-<table>
-<tr>
-<td width="50%">
+━━━━━━━━━━━━━━━━━━━━
+🛠️ TECH STACK
+━━━━━━━━━━━━━━━━━━━━
 
-- 🧩 Data Structures & Algorithms
-- 💻 Software Development
-- 🤖 Artificial Intelligence
-- 🌐 Web Development
+This is EXTREMELY IMPORTANT.
 
-</td>
-<td width="50%">
+Every software, application, programming language, platform, tool or technology shown in the Tech Stack MUST have its recognizable official logo/icon.
 
-- 🐍 Better Python programming
-- 🗄️ Database Management
-- 🔀 Git & GitHub
-- 🔨 Building real-world projects
+Do NOT make technology names plain text if a recognizable logo exists.
 
-</td>
-</tr>
-</table>
+Prefer:
 
-> **Learning in progress — not claiming mastery.**  
-> The goal is to understand concepts deeply by applying them.
+1. skillicons.dev
+2. Shields.io with the correct official logo
+3. Official SVG/logo source where necessary
 
----
+Never use random or unrelated icons.
 
-# 🔨 Currently Building / Exploring
+Organize the Tech Stack into compact visual cards or logo rows rather than huge rectangular badges.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+━━━━━━━━━━━━━━━━━━━━
+💻 PROGRAMMING LANGUAGES
+━━━━━━━━━━━━━━━━━━━━
 
-## 📌 Project 01
+C
+Python
 
-**YOUR_PROJECT_NAME**
+Use their actual logos.
 
-📝 **Description**  
-YOUR_SHORT_PROJECT_DESCRIPTION
+Prefer:
 
-⚙️ **Technologies**
+https://skillicons.dev/icons?i=c,python
 
-`YOUR_TECHNOLOGY`
+━━━━━━━━━━━━━━━━━━━━
+🌐 WEB DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━
 
-🎯 **What I'm learning**
+HTML
 
-YOUR_LEARNING_OUTCOME
+Use the actual HTML5 logo.
 
-🔗 **Repository**
+━━━━━━━━━━━━━━━━━━━━
+🗄️ DATABASES
+━━━━━━━━━━━━━━━━━━━━
 
-[GitHub Repository](YOUR_PROJECT_REPOSITORY_URL)
+MySQL
+MariaDB
+DBMS
 
-🌐 **Live Demo**
+MySQL MUST have the actual MySQL logo.
+MariaDB MUST have the actual MariaDB logo.
 
-[View Demo](YOUR_LIVE_DEMO_URL)
+For DBMS, use a clean database icon because DBMS is a concept rather than a specific application.
 
-</td>
+━━━━━━━━━━━━━━━━━━━━
+📊 DATA & ANALYTICS
+━━━━━━━━━━━━━━━━━━━━
 
-<td width="50%" valign="top">
+Microsoft Power BI
 
-## 📌 Project 02
+IMPORTANT:
+Use the actual Power BI logo.
 
-**YOUR_PROJECT_NAME**
+Do NOT use a generic analytics icon instead of the Power BI logo.
 
-📝 **Description**  
-YOUR_SHORT_PROJECT_DESCRIPTION
+Use Shields.io or another reliable logo source if skillicons.dev does not support it.
 
-⚙️ **Technologies**
+━━━━━━━━━━━━━━━━━━━━
+🔧 DEVELOPMENT TOOLS
+━━━━━━━━━━━━━━━━━━━━
 
-`YOUR_TECHNOLOGY`
+Jupyter Notebook
+PyCharm
+Visual Studio
+Anaconda
 
-🎯 **What I'm learning**
+IMPORTANT:
 
-YOUR_LEARNING_OUTCOME
+Jupyter Notebook MUST NOT be omitted.
 
-🔗 **Repository**
+Every tool MUST display its recognizable official logo.
 
-[GitHub Repository](YOUR_PROJECT_REPOSITORY_URL)
+Use actual logos for:
+- Jupyter
+- PyCharm
+- Visual Studio
+- Anaconda
 
-🌐 **Live Demo**
+━━━━━━━━━━━━━━━━━━━━
+🤖 AI TOOLS
+━━━━━━━━━━━━━━━━━━━━
 
-[View Demo](YOUR_LIVE_DEMO_URL)
+Google Gemini
+ChatGPT
 
-</td>
-</tr>
-</table>
+IMPORTANT:
 
-> 💡 Replace the placeholders above when you have projects ready. No fictional projects or statistics are listed here.
+Google Gemini:
+Use the recognizable official Gemini logo.
 
----
+ChatGPT:
+Use the recognizable OpenAI / ChatGPT logo.
 
-# 💡 Featured Projects
+Do NOT replace them with generic robot, brain or AI icons.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+━━━━━━━━━━━━━━━━━━━━
+🎨 CREATIVE & PRODUCTIVITY
+━━━━━━━━━━━━━━━━━━━━
 
-### 🚀 Project 01
-**YOUR_PROJECT_NAME**
+Adobe Photoshop
+Microsoft Office 365
 
-What it does:  
-`YOUR_DESCRIPTION`
+CRITICAL:
 
-Technologies:  
-`YOUR_TECHNOLOGY`
+Adobe Photoshop:
+Use the actual Adobe Photoshop "Ps" logo.
 
-What I learned:  
-`YOUR_LEARNING`
+Microsoft Office 365:
+Use the actual Microsoft 365 / Office logo.
 
-[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+Do NOT use generic text-only badges.
 
-</td>
+━━━━━━━━━━━━━━━━━━━━
+🔀 VERSION CONTROL
+━━━━━━━━━━━━━━━━━━━━
 
-<td width="50%" valign="top">
+Git
+GitHub
 
-### 🧠 Project 02
-**YOUR_PROJECT_NAME**
+Use their recognizable official logos.
 
-What it does:  
-`YOUR_DESCRIPTION`
+━━━━━━━━━━━━━━━━━━━━
+🧠 OTHER SKILLS
+━━━━━━━━━━━━━━━━━━━━
 
-Technologies:  
-`YOUR_TECHNOLOGY`
+Include these as non-technology skills in a separate compact section:
 
-What I learned:  
-`YOUR_LEARNING`
+- Problem-solving & analytical thinking
+- Communication
+- Teamwork & collaboration
+- Leadership
+- Coordination
+- Discipline
+- Time management
+- Quick learning
 
-[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+Do NOT represent these as software technologies.
 
-</td>
-</tr>
+━━━━━━━━━━━━━━━━━━━━
+🚨 LOGO VALIDATION
+━━━━━━━━━━━━━━━━━━━━
 
-<tr>
-<td width="50%" valign="top">
+Before finalizing the README, verify that:
 
-### 🔧 Project 03
-**YOUR_PROJECT_NAME**
+C → C logo
+Python → Python logo
+HTML → HTML5 logo
+MySQL → MySQL logo
+MariaDB → MariaDB logo
+Power BI → Power BI logo
+Jupyter → Jupyter logo
+PyCharm → PyCharm logo
+Visual Studio → Visual Studio logo
+Anaconda → Anaconda logo
+Gemini → Gemini logo
+ChatGPT → OpenAI/ChatGPT logo
+Photoshop → Photoshop "Ps" logo
+Microsoft 365 → Microsoft 365 logo
+Git → Git logo
+GitHub → GitHub logo
 
-What it does:  
-`YOUR_DESCRIPTION`
+No technology should appear as a plain colored rectangle when an appropriate recognizable logo is available.
 
-Technologies:  
-`YOUR_TECHNOLOGY`
+━━━━━━━━━━━━━━━━━━━━
+📚 CURRENTLY LEARNING
+━━━━━━━━━━━━━━━━━━━━
 
-What I learned:  
-`YOUR_LEARNING`
+Create a visually attractive "Currently Learning" section.
 
-[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+Include:
 
-</td>
+🧩 Data Structures & Algorithms
+💻 Software Development
+🤖 Artificial Intelligence
+🌐 Web Development
+🐍 Better Python Programming
+🗄️ Database Management
+🔀 Git & GitHub
+🔨 Building Real-World Projects
 
-<td width="50%" valign="top">
+Clearly communicate that these are areas I am currently learning/exploring.
 
-### 🌐 Project 04
-**YOUR_PROJECT_NAME**
+Do NOT imply mastery.
 
-What it does:  
-`YOUR_DESCRIPTION`
+Use a clean progress/learning-card style, but DO NOT use fake percentages or progress bars.
 
-Technologies:  
-`YOUR_TECHNOLOGY`
+━━━━━━━━━━━━━━━━━━━━
+🔭 CURRENTLY EXPLORING
+━━━━━━━━━━━━━━━━━━━━
 
-What I learned:  
-`YOUR_LEARNING`
+Create a separate visually attractive "Currently Exploring" section.
 
-[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+This section should represent areas I am actively curious about and experimenting with.
 
-</td>
-</tr>
-</table>
+Include:
 
----
+🤖 Artificial Intelligence
+🐍 Python & Programming
+🌐 Web Development
+🗄️ Databases & DBMS
+📊 Data & Analytics
+🧩 Data Structures & Algorithms
+💻 Software Development
+🔀 Git & GitHub
 
-# 📊 GitHub Activity
+IMPORTANT:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamdatta08&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="Shivam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdatta08&layout=compact&hide_border=true&langs_count=8" height="165" alt="Shivam's Top Languages" />
-</p>
+- This section represents areas I am exploring, NOT areas where I claim expertise.
+- Keep it visually different from "Currently Learning" so the two sections do not feel repetitive.
+- Use compact cards, a roadmap-style layout, or a clean developer-dashboard design.
+- For technology-specific items, use recognizable technology logos/icons wherever appropriate.
+- Keep the section concise and mobile-friendly.
+- Do not use fake skill percentages.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamdatta08&hide_border=true" height="165" alt="GitHub Contribution Streak" />
-</p>
+━━━━━━━━━━━━━━━━━━━━
+🚫 PROJECTS
+━━━━━━━━━━━━━━━━━━━━
 
-### 📈 Contribution Graph
+IMPORTANT:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamdatta08&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
+I currently do NOT have projects that I want to showcase.
 
-### 👀 Profile Visitors
+DO NOT create:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamdatta08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitors" />
-</p>
+- Current Projects
+- Featured Projects
+- Project Cards
+- Project placeholders
+- Fake repositories
+- Fake live demos
+- Fake project statistics
 
----
+Completely remove the Projects section from the README.
 
-# 🏆 Achievements & Leadership
+Do not mention that projects are "coming soon" unless it fits naturally without creating a project placeholder.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+━━━━━━━━━━━━━━━━━━━━
+📊 GITHUB ACTIVITY
+━━━━━━━━━━━━━━━━━━━━
 
-### 🏅 Rajya Puraskar
-**Bharat Scouts & Guides**
+Create a compact GitHub Activity section.
 
-State-level scouting award presented by the **Lieutenant Governor of Delhi**.
+Use my REAL username everywhere:
 
-Awarded in recognition of leadership, discipline and service.
+shivamdatta08
 
-</td>
+Include:
 
-<td width="50%" valign="top">
+- GitHub Stats
+- Top Languages
+- Contribution Streak
+- Contribution Graph
+- Profile Visitor Counter
 
-### 🎖️ Main Lead — Colour Party
-**Bharat Mandapam · 2024**
+Use reliable GitHub README-compatible services.
 
-Served as **Main Lead of the Colour Party** at Bharat Mandapam in 2024, associated with Kendriya Vidyalaya Sangathan.
+Examples:
 
-</td>
-</tr>
+https://github-readme-stats.vercel.app/
+https://streak-stats.demolab.com/
+https://github-readme-activity-graph.vercel.app/
+https://komarev.com/ghpvc/
 
-<tr>
-<td width="50%" valign="top">
+IMPORTANT:
+
+Every GitHub statistics URL MUST use:
+
+shivamdatta08
+
+NEVER use:
+
+YOUR_GITHUB_USERNAME
+
+Do not fabricate or manually write statistics.
+
+Keep this section visually compact.
+
+If one external statistics service stops working, the rest of the README should still look clean.
+
+━━━━━━━━━━━━━━━━━━━━
+🏆 ACHIEVEMENTS & LEADERSHIP
+━━━━━━━━━━━━━━━━━━━━
+
+Create a modern achievement/timeline-style section rather than a traditional CV bullet list.
+
+Include ONLY these real achievements:
+
+### 🏅 Rajya Puraskar — Bharat Scouts & Guides
+
+State-level scouting award presented by the Lieutenant Governor of Delhi.
+
+The award is associated with my Bharat Scouts & Guides journey and was issued in December 2022.
+
+### 🎖️ Main Lead — Colour Party, Bharat Mandapam 2024
+
+Served as Main Lead of the Colour Party at Bharat Mandapam in 2024, associated with Kendriya Vidyalaya Sangathan.
 
 ### 🥁 Colour Party Leadership
 
-Led multiple **Colour Party Parades** at Kendriya Vidyalaya Sangathan events, developing experience in coordination, discipline and team management.
-
-</td>
-
-<td width="50%" valign="top">
+Led multiple Colour Party Parades at Kendriya Vidyalaya Sangathan events, demonstrating coordination, discipline and team management.
 
 ### 🧭 Rover — Bharat Scouts & Guides
 
-Active in scouting as a **Rover since 2018**, gaining experience through volunteering, teamwork, leadership and organized activities.
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
+Active in scouting as a Rover since 2018, gaining experience through volunteering, teamwork, leadership and organized activities.
 
 ### 👥 Academic Team Leadership
 
-Led teams during academic projects, coordinating responsibilities and working collaboratively to complete project objectives.
+Led teams during academic projects, coordinating responsibilities and working collaboratively toward project objectives.
 
-</td>
-</tr>
-</table>
+Present these as achievements and leadership experiences.
 
----
+Do NOT make this look like a resume.
 
-# 🎓 Education
+━━━━━━━━━━━━━━━━━━━━
+🎓 EDUCATION
+━━━━━━━━━━━━━━━━━━━━
 
-<table>
-<tr>
-<td width="70%">
+Include:
 
 ### Guru Gobind Singh Indraprastha University
 
-**B.Tech — Computer Science & Engineering**
+B.Tech — Computer Science & Engineering
 
-Currently pursuing · 2025–2029
+2025–2029
 
-</td>
-<td align="right">
+Currently pursuing — Second Year
 
-🎓 **GGSIPU**
+Also include:
 
-</td>
-</tr>
+### Advanced Diploma in Computer Application (ADCA)
 
-<tr>
-<td width="70%">
+Do NOT include:
 
-### ADCA
+- Class 10
+- Class 12
+- Marks
+- Percentages
+- Date of birth
+- Enrollment number
+- Phone number
+- Gender
 
-**Advanced Diploma in Computer Application**
+━━━━━━━━━━━━━━━━━━━━
+🎯 DEVELOPER JOURNEY
+━━━━━━━━━━━━━━━━━━━━
 
-</td>
-<td align="right">
+Create a clean vertical timeline.
 
-💻 **Computer Applications**
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎯 My Developer Journey
-
-```text
 2025
-  │
-  └── 🎓 Started B.Tech CSE @ GGSIPU
-        │
-        ▼
+↓
+Started B.Tech CSE @ GGSIPU
+
 2025–26
-  │
-  └── 💻 Strengthened programming & computer fundamentals
-        │
-        ▼
+↓
+Strengthened programming & computer fundamentals
+
 2026
-  │
-  └── 🔍 Exploring development, databases, data & AI
-        │
-        ▼
+↓
+Exploring development, databases, data & AI
+
 2026–27
-  │
-  └── 🔨 Building more practical & real-world projects
-        │
-        ▼
+↓
+Building more practical and real-world projects
+
 Future
-  │
-  └── 🚀 Continue growing as a software / AI-focused developer
+↓
+Continue growing as a software / AI-focused developer
+
+Do not make unrealistic career predictions.
+
+━━━━━━━━━━━━━━━━━━━━
+🌱 WHAT I'M WORKING TOWARDS
+━━━━━━━━━━━━━━━━━━━━
+
+Include:
+
+- Strengthen programming fundamentals
+- Improve DSA and problem-solving
+- Build meaningful real-world projects
+- Explore AI & Machine Learning
+- Improve software development skills
+- Learn more about databases and web technologies
+- Contribute to open-source projects
+- Build a strong technical portfolio
+- Keep learning consistently
+
+Use a clean checklist/card design.
+
+━━━━━━━━━━━━━━━━━━━━
+🧠 BEYOND CODE
+━━━━━━━━━━━━━━━━━━━━
+
+Create a small personality grid:
+
+🧩 Problem Solver
+📚 Curious Learner
+🤝 Team Player
+🎯 Goal Oriented
+🧭 Leader
+🎨 Creative
+💡 Explorer
+⚡ Consistent
+
+Keep it subtle and professional.
+
+━━━━━━━━━━━━━━━━━━━━
+💭 DEVELOPER PHILOSOPHY
+━━━━━━━━━━━━━━━━━━━━
+
+Create one short original line.
+
+Something similar in spirit to:
+
+"Build with curiosity. Experiment with purpose. Let every project teach you something new."
+
+Make it natural and distinctive.
+
+Display it inside a small highlighted quote/card.
+
+━━━━━━━━━━━━━━━━━━━━
+📫 CONNECT WITH ME
+━━━━━━━━━━━━━━━━━━━━
+
+Include:
+
+GitHub:
+https://github.com/shivamdatta08
+
+LinkedIn:
+https://www.linkedin.com/in/shivam-datta-686194377/
+
+Email:
+shivamdatta1008@gmail.com
+
+Portfolio:
+YOUR_PORTFOLIO_URL
+
+Use attractive but minimal icons/buttons.
+
+EMAIL RULE:
+Use my email address wherever an email/contact email is required:
+
+shivamdatta1008@gmail.com
+
+Do NOT use:
+YOUR_EMAIL@example.com
+YOUR_EMAIL
+any invented email address
+
+Use the same email consistently in the Connect With Me section and appropriate mailto links.
+
+Do NOT invent my portfolio URL.
+
+━━━━━━━━━━━━━━━━━━━━
+🚫 PRIVACY
+━━━━━━━━━━━━━━━━━━━━
+
+DO NOT include:
+
+- Date of birth
+- Phone number
+- Gender
+- Class 10 information
+- Class 12 information
+- Marks
+- Percentages
+- Enrollment number
+- Any other private personal information
+
+My public contact email is:
+shivamdatta1008@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━
+🚫 DO NOT INVENT
+━━━━━━━━━━━━━━━━━━━━
+
+Never invent:
+
+- Projects
+- Internships
+- Jobs
+- Professional experience
+- Certifications
+- GitHub statistics
+- Achievements
+- Portfolio links
+- Repository URLs
+- Live demos
+- Programming languages
+- Technologies not listed in this prompt
+
+Only use information explicitly provided in this prompt.
+
+━━━━━━━━━━━━━━━━━━━━
+📱 FINAL DESIGN CHECK
+━━━━━━━━━━━━━━━━━━━━
+
+Before outputting the README, verify:
+
+✓ Dark premium developer-portfolio aesthetic
+✓ Modern cards/grid layout
+✓ Mobile-friendly
+✓ Clean spacing
+✓ Strong visual hierarchy
+✓ Not a CV
+✓ Not an excessive badge collection
+✓ NO Projects section
+✓ NO Featured Projects section
+✓ No fake projects
+✓ No fake statistics
+✓ No fake experience
+✓ No private information
+✓ GitHub username is always "shivamdatta08"
+✓ No "YOUR_GITHUB_USERNAME"
+✓ Email is always "shivamdatta1008@gmail.com"
+✓ No "YOUR_EMAIL@example.com"
+✓ C logo is visible
+✓ Python logo is visible
+✓ HTML logo is visible
+✓ MySQL logo is visible
+✓ MariaDB logo is visible
+✓ Power BI logo is visible
+✓ Jupyter logo is visible
+✓ PyCharm logo is visible
+✓ Visual Studio logo is visible
+✓ Anaconda logo is visible
+✓ Gemini logo is visible
+✓ ChatGPT/OpenAI logo is visible
+✓ Photoshop "Ps" logo is visible
+✓ Microsoft 365 logo is visible
+✓ Git logo is visible
+✓ GitHub logo is visible
+✓ No generic icon is substituted for a recognizable technology logo
+✓ Currently Learning section is present
+✓ Currently Exploring section is present
+✓ Currently Learning and Currently Exploring are visually distinct
+✓ No fake percentages or skill levels
+✓ All external images use reliable HTTPS URLs
+✓ README works on GitHub without requiring JavaScript
+✓ HTML is valid enough for GitHub Markdown rendering
+✓ External statistics failing should not break the overall layout
+✓ The final result looks like a premium student developer portfolio
+✓ The overall README remains concise enough for mobile viewing
+
+FINAL OUTPUT:
+
+Return ONLY ONE COMPLETE README.md CODE BLOCK.
+
+Do not provide explanations outside the code block.
