@@ -186,4 +186,290 @@ Keep Building
 
 <table>
 <tr>
-<td width="50
+<td width="50%" valign="top">
+
+## 📌 Project 01
+
+**YOUR_PROJECT_NAME**
+
+📝 **Description**  
+YOUR_SHORT_PROJECT_DESCRIPTION
+
+⚙️ **Technologies**
+
+`YOUR_TECHNOLOGY`
+
+🎯 **What I'm learning**
+
+YOUR_LEARNING_OUTCOME
+
+🔗 **Repository**
+
+[GitHub Repository](YOUR_PROJECT_REPOSITORY_URL)
+
+🌐 **Live Demo**
+
+[View Demo](YOUR_LIVE_DEMO_URL)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📌 Project 02
+
+**YOUR_PROJECT_NAME**
+
+📝 **Description**  
+YOUR_SHORT_PROJECT_DESCRIPTION
+
+⚙️ **Technologies**
+
+`YOUR_TECHNOLOGY`
+
+🎯 **What I'm learning**
+
+YOUR_LEARNING_OUTCOME
+
+🔗 **Repository**
+
+[GitHub Repository](YOUR_PROJECT_REPOSITORY_URL)
+
+🌐 **Live Demo**
+
+[View Demo](YOUR_LIVE_DEMO_URL)
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the placeholders above when you have projects ready. No fictional projects or statistics are listed here.
+
+---
+
+# 💡 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Project 01
+**YOUR_PROJECT_NAME**
+
+What it does:  
+`YOUR_DESCRIPTION`
+
+Technologies:  
+`YOUR_TECHNOLOGY`
+
+What I learned:  
+`YOUR_LEARNING`
+
+[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Project 02
+**YOUR_PROJECT_NAME**
+
+What it does:  
+`YOUR_DESCRIPTION`
+
+Technologies:  
+`YOUR_TECHNOLOGY`
+
+What I learned:  
+`YOUR_LEARNING`
+
+[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Project 03
+**YOUR_PROJECT_NAME**
+
+What it does:  
+`YOUR_DESCRIPTION`
+
+Technologies:  
+`YOUR_TECHNOLOGY`
+
+What I learned:  
+`YOUR_LEARNING`
+
+[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Project 04
+**YOUR_PROJECT_NAME**
+
+What it does:  
+`YOUR_DESCRIPTION`
+
+Technologies:  
+`YOUR_TECHNOLOGY`
+
+What I learned:  
+`YOUR_LEARNING`
+
+[Repository →](YOUR_PROJECT_REPOSITORY_URL)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamdatta08&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdatta08&layout=compact&hide_border=true&langs_count=8" height="165" alt="Shivam's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamdatta08&hide_border=true" height="165" alt="GitHub Contribution Streak" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamdatta08&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamdatta08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitors" />
+</p>
+
+---
+
+# 🏆 Achievements & Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏅 Rajya Puraskar
+**Bharat Scouts & Guides**
+
+State-level scouting award presented by the **Lieutenant Governor of Delhi**.
+
+Awarded in recognition of leadership, discipline and service.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎖️ Main Lead — Colour Party
+**Bharat Mandapam · 2024**
+
+Served as **Main Lead of the Colour Party** at Bharat Mandapam in 2024, associated with Kendriya Vidyalaya Sangathan.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥁 Colour Party Leadership
+
+Led multiple **Colour Party Parades** at Kendriya Vidyalaya Sangathan events, developing experience in coordination, discipline and team management.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧭 Rover — Bharat Scouts & Guides
+
+Active in scouting as a **Rover since 2018**, gaining experience through volunteering, teamwork, leadership and organized activities.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 👥 Academic Team Leadership
+
+Led teams during academic projects, coordinating responsibilities and working collaboratively to complete project objectives.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎓 Education
+
+<table>
+<tr>
+<td width="70%">
+
+### Guru Gobind Singh Indraprastha University
+
+**B.Tech — Computer Science & Engineering**
+
+Currently pursuing · 2025–2029
+
+</td>
+<td align="right">
+
+🎓 **GGSIPU**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### ADCA
+
+**Advanced Diploma in Computer Application**
+
+</td>
+<td align="right">
+
+💻 **Computer Applications**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 My Developer Journey
+
+```text
+2025
+  │
+  └── 🎓 Started B.Tech CSE @ GGSIPU
+        │
+        ▼
+2025–26
+  │
+  └── 💻 Strengthened programming & computer fundamentals
+        │
+        ▼
+2026
+  │
+  └── 🔍 Exploring development, databases, data & AI
+        │
+        ▼
+2026–27
+  │
+  └── 🔨 Building more practical & real-world projects
+        │
+        ▼
+Future
+  │
+  └── 🚀 Continue growing as a software / AI-focused developer
